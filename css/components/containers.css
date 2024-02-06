@@ -1,0 +1,11 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  font-family: "Playfair Display";
+}
+
+.text-center {
+  text-align: center;
+  /* font-family: "Playfair Display"; */
+}
